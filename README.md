@@ -80,3 +80,11 @@ This script is possible only through the fantastic work of the ADS and its API:
 
 tex2bib is licensed under the BSD 3-Clause License - see the
 [LICENSE](https://github.com/skiehl/tex2bib/blob/main/LICENSE) file.
+
+## Alternatives
+
+This script only works with ADS bibcodes. Custom bibcodes cannot be retrieved
+from ADS. If you want to use custom bibcodes, you may want to use this tool:
+
+[bibmanager](https://github.com/pcubillos/bibmanager) -
+[ReadMe](https://bibmanager.readthedocs.io/en/latest/)
